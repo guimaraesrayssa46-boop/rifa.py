@@ -10,4 +10,4 @@ for i in range(quantidade):
 
 sorteado = random.choice(nomes)
 
-print("O ganhador da rifa foi: {sorteado}")
+print("O ganhador da rifa foi: {sorteado}"
